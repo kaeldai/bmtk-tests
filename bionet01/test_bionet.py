@@ -6,11 +6,24 @@ import tempfile
 import shutil
 import numpy as np
 import datetime
-from optparse import OptionParser
+from optparse import OptionParser, BadOptionError, AmbiguousOptionError
 
 from bmtk.simulator import bionet
 from bmtk.utils.spike_trains import SpikesFile
 from bmtk.utils.cell_vars import CellVarsFile
+
+from neuron import h
+
+
+try:
+    pc = h.ParallelContext()
+    MPI_size = int(pc.nhost())
+    MPI_rank = int(pc.id())
+    barrier = pc.barrier
+except Exception as e:
+    MPI_rank = 0
+    MPI_size = 1
+    def barrier(): pass
 
 
 def save_data(sim_type, conn_type, output_dir):
@@ -159,7 +172,7 @@ def get_expected_results(input_type, conn_type):
     return 'expected/sim_output_{}.h5'.format(input_type)
 
 
-def test_bionet(input_type='virt', conn_type='nsyns', capture_output=True, tol=1e-06):
+def test_bionet(input_type='virt', conn_type='nsyns', capture_output=True, tol=1e-05):
     print('Testing BioNet with {} inputs and {} synaptic connections'.format(input_type, conn_type))
 
     output_dir = 'output' if capture_output else tempfile.mkdtemp()
@@ -174,45 +187,52 @@ def test_bionet(input_type='virt', conn_type='nsyns', capture_output=True, tol=1
     net = bionet.BioNetwork.from_config(conf)
     sim = bionet.BioSimulator.from_config(conf, net)
     sim.run()
+    barrier()
 
-    expected_file = get_expected_results(input_type, conn_type)
+    if MPI_rank == 0:
+        print('Verifying output.')
+        expected_file = get_expected_results(input_type, conn_type)
 
-    # Check spikes file
-    assert (SpikesFile(os.path.join(output_dir, 'spikes.h5')) == SpikesFile(expected_file))
+        # Check spikes file
+        assert (SpikesFile(os.path.join(output_dir, 'spikes.h5')) == SpikesFile(expected_file))
 
-    # soma reports
-    soma_report_expected = CellVarsFile(expected_file, h5_root='/soma')
-    soma_reports = CellVarsFile(os.path.join(output_dir, 'soma_vars.h5'))
-    t_window = soma_report_expected.t_start, soma_report_expected.t_stop
-    assert (soma_report_expected.dt == soma_reports.dt)
-    assert (soma_report_expected.gids == soma_reports.gids)
-    assert (soma_report_expected.variables == soma_reports.variables)
-    for gid in soma_report_expected.gids:
-        assert (soma_reports.compartment_ids(gid) == soma_report_expected.compartment_ids(gid)).all()
-        for var in soma_report_expected.variables:
-            assert (np.allclose(soma_reports.data(var, gid, time_window=t_window), soma_report_expected.data(var, gid),
-                                tol))
+        # soma reports
+        soma_report_expected = CellVarsFile(expected_file, h5_root='/soma')
+        soma_reports = CellVarsFile(os.path.join(output_dir, 'soma_vars.h5'))
+        t_window = soma_report_expected.t_start, soma_report_expected.t_stop
+        assert (soma_report_expected.dt == soma_reports.dt)
+        assert (soma_report_expected.gids == soma_reports.gids)
+        assert (soma_report_expected.variables == soma_reports.variables)
+        for gid in soma_report_expected.gids:
+            assert (soma_reports.compartment_ids(gid) == soma_report_expected.compartment_ids(gid)).all()
+            for var in soma_report_expected.variables:
+                assert (np.allclose(soma_reports.data(var, gid, time_window=t_window), soma_report_expected.data(var, gid),
+                                    tol))
 
-    # Compartmental reports
-    compart_report_exp = CellVarsFile(expected_file, h5_root='/compartmental')
-    compart_report = CellVarsFile(os.path.join(output_dir, 'full_cell_vars.h5'))
-    t_window = compart_report_exp.t_start, compart_report_exp.t_stop
-    assert (compart_report_exp.dt == compart_report.dt)
-    assert (compart_report_exp.variables == compart_report.variables)
-    for gid in compart_report_exp.gids:
-        assert ((compart_report.compartment_ids(gid) == compart_report_exp.compartment_ids(gid)).all())
-        for var in compart_report_exp.variables:
-            assert (np.allclose(compart_report.data(var, gid, time_window=t_window, compartments='all'),
-                                compart_report_exp.data(var, gid, compartments='all'), tol))
+        # Compartmental reports
+        compart_report_exp = CellVarsFile(expected_file, h5_root='/compartmental')
+        compart_report = CellVarsFile(os.path.join(output_dir, 'full_cell_vars.h5'))
+        t_window = compart_report_exp.t_start, compart_report_exp.t_stop
+        assert (compart_report_exp.dt == compart_report.dt)
+        assert (compart_report_exp.variables == compart_report.variables)
+        for gid in compart_report_exp.gids:
+            assert ((compart_report.compartment_ids(gid) == compart_report_exp.compartment_ids(gid)).all())
+            for var in compart_report_exp.variables:
+                assert (np.allclose(compart_report.data(var, gid, time_window=t_window, compartments='all'),
+                                    compart_report_exp.data(var, gid, compartments='all'), tol))
 
-    # ecp
-    ecp_report = h5py.File(os.path.join(output_dir, 'ecp.h5'), 'r')
-    ecp_report_exp = h5py.File(expected_file, 'r')
-    ecp_grp_exp = ecp_report_exp['/ecp']
-    assert(np.allclose(np.array(ecp_report['/data'][:, 0]), np.array(ecp_grp_exp['data']), tol))
+        # ecp
+        ecp_report = h5py.File(os.path.join(output_dir, 'ecp.h5'), 'r')
+        ecp_report_exp = h5py.File(expected_file, 'r')
+        ecp_grp_exp = ecp_report_exp['/ecp']
+        assert(np.allclose(np.array(ecp_report['/data'][:, 0]), np.array(ecp_grp_exp['data']), tol))
+
+    barrier()
+    bionet.nrn.quit_execution()
 
 
 def rebuild_expected(input_type='virt', conn_type='nsyns'):
+    assert(MPI_size == 1)
     print('Building results for {} inputs and {} synaptic connections'.format(input_type, conn_type))
 
     output_dir = tempfile.mkdtemp()
@@ -232,22 +252,73 @@ def rebuild_expected(input_type='virt', conn_type='nsyns'):
     shutil.rmtree(output_dir)
 
 
+def convert_nsyns():
+    output_dir = 'output'
+    config_base = json.load(open('config_base.json'))
+    config_base['manifest']['$OUTPUT_DIR'] = output_dir
+    config_base['inputs'] = {
+        "LGN_spikes": {
+            "input_type": "spikes",
+            "module": "nwb",
+            "input_file": "$INPUT_DIR/lgn_spikes.nwb",
+            "node_set": "lgn",
+            "trial": "trial_0"
+        },
+        "TW_spikes": {
+            "input_type": "spikes",
+            "module": "nwb",
+            "input_file": "$INPUT_DIR/tw_spikes.nwb",
+            "node_set": "tw",
+            "trial": "trial_0"
+        }
+    }
+
+    config_base['reports'] = {
+        'save_synapses': {
+            'cells': 'all',
+            'module': 'save_synapses',
+            'network_dir': 'network_secs'
+        }
+    }
+
+    conf = bionet.Config.from_dict(config_base, validate=True)
+    conf.build_env()
+
+    net = bionet.BioNetwork.from_config(conf)
+    sim = bionet.BioSimulator.from_config(conf, net)
+    sim.run()
+
+
+class PassThroughOptionParser(OptionParser):
+    def error(self, msg):
+        pass
+
+    def _process_args(self, largs, rargs, values):
+        while rargs:
+            try:
+                OptionParser._process_args(self, largs, rargs, values)
+            except (BadOptionError, AmbiguousOptionError), e:
+                largs.append(e.opt_str)
+
+
 if __name__ == '__main__':
-    parser = OptionParser(usage="Usage: python test_bionet [options] [rebuild]")
+    parser = PassThroughOptionParser(usage="Usage: python test_bionet [options] [rebuild]")
     parser.add_option('-i', '--input', dest='input_type', type='string', default='virt',
                       help='type of input to simulate against (virt, iclamp, xstim).')
     parser.add_option('-c', '--connections', dest='conn_type', type='string',  default='nsyns',
                       help="type of synpatic connections (nsyns, sections).")
-    parser.add_option('--supress-output', dest='capture_output', action='store_false', default=True,
+    parser.add_option('--suppress-output', dest='capture_output', action='store_false', default=True,
                       help='do not save output.')
 
     options, args = parser.parse_args()
+    if __file__ in args:
+        args = args[args.index(__file__)+1:]
 
     if not args:
         test_bionet(input_type=options.input_type, conn_type=options.conn_type, capture_output=options.capture_output)
 
-    elif args == ['rebuild']:
+    if 'rebuild' in args:
         rebuild_expected(input_type=options.input_type, conn_type=options.conn_type)
 
-    else:
-        raise Exception('Unknown arguments {}'.format(args))
+    if 'convert' in args:
+        convert_nsyns()
