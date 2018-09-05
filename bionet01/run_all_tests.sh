@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 input_types=(virt iclamp xstim)
 connection_types=(nsyns sections)
