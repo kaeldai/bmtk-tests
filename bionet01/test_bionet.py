@@ -226,6 +226,7 @@ def test_bionet(input_type='virt', conn_type='nsyns', capture_output=True, tol=1
         ecp_report_exp = h5py.File(expected_file, 'r')
         ecp_grp_exp = ecp_report_exp['/ecp']
         assert(np.allclose(np.array(ecp_report['/data'][:, 0]), np.array(ecp_grp_exp['data']), tol))
+        print('Success!')
 
     barrier()
     bionet.nrn.quit_execution()
@@ -297,7 +298,7 @@ class PassThroughOptionParser(OptionParser):
         while rargs:
             try:
                 OptionParser._process_args(self, largs, rargs, values)
-            except (BadOptionError, AmbiguousOptionError), e:
+            except (BadOptionError, AmbiguousOptionError) as e:
                 largs.append(e.opt_str)
 
 
