@@ -173,7 +173,9 @@ def get_expected_results(input_type, conn_type):
 
 
 def test_bionet(input_type='virt', conn_type='nsyns', capture_output=True, tol=1e-05):
-    print('Testing BioNet with {} inputs and {} synaptic connections'.format(input_type, conn_type))
+    if MPI_rank == 0:
+        print('Testing BioNet with {} inputs and {} synaptic connections (nodes: {})'.format(input_type, conn_type,
+                                                                                             MPI_size))
 
     output_dir = 'output' if capture_output else tempfile.mkdtemp()
     config_base = json.load(open('config_base.json'))
@@ -206,8 +208,8 @@ def test_bionet(input_type='virt', conn_type='nsyns', capture_output=True, tol=1
         for gid in soma_report_expected.gids:
             assert (soma_reports.compartment_ids(gid) == soma_report_expected.compartment_ids(gid)).all()
             for var in soma_report_expected.variables:
-                assert (np.allclose(soma_reports.data(var, gid, time_window=t_window), soma_report_expected.data(var, gid),
-                                    tol))
+                assert (np.allclose(soma_reports.data(gid=gid, var_name=var, time_window=t_window),
+                                    soma_report_expected.data(gid=gid, var_name=var), tol))
 
         # Compartmental reports
         compart_report_exp = CellVarsFile(expected_file, h5_root='/compartmental')
@@ -218,8 +220,8 @@ def test_bionet(input_type='virt', conn_type='nsyns', capture_output=True, tol=1
         for gid in compart_report_exp.gids:
             assert ((compart_report.compartment_ids(gid) == compart_report_exp.compartment_ids(gid)).all())
             for var in compart_report_exp.variables:
-                assert (np.allclose(compart_report.data(var, gid, time_window=t_window, compartments='all'),
-                                    compart_report_exp.data(var, gid, compartments='all'), tol))
+                assert (np.allclose(compart_report.data(gid, var_name=var, time_window=t_window, compartments='all'),
+                                    compart_report_exp.data(gid, var_name=var, compartments='all'), tol))
 
         # ecp
         ecp_report = h5py.File(os.path.join(output_dir, 'ecp.h5'), 'r')
