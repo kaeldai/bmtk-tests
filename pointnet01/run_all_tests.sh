@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 network_types=(batched individual)
 
