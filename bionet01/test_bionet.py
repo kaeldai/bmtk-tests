@@ -9,7 +9,8 @@ import datetime
 from optparse import OptionParser, BadOptionError, AmbiguousOptionError
 
 from bmtk.simulator import bionet
-from bmtk.utils.spike_trains import SpikesFile
+from bmtk.utils.reports.spike_trains import SpikeTrains
+# from bmtk.utils.spike_trains import SpikesFile
 from bmtk.utils.cell_vars import CellVarsFile
 
 from neuron import h
@@ -44,7 +45,7 @@ def save_data(sim_type, conn_type, output_dir):
     root_group.attrs['arch'] = platform.machine()
 
     # spikes data
-    input_spikes = SpikesFile(os.path.join(output_dir, 'spikes.h5'))
+    input_spikes = SpikeTrains.from_sonata(os.path.join(output_dir, 'spikes.h5'))
     spikes_df = input_spikes.to_dataframe()
     sample_data.create_dataset('/spikes/gids', data=np.array(spikes_df['gids']))
     sample_data.create_dataset('/spikes/timestamps', data=np.array(spikes_df['timestamps']))
@@ -174,8 +175,12 @@ def get_expected_results(input_type, conn_type):
 
 def test_bionet(input_type='virt', conn_type='nsyns', capture_output=True, tol=1e-05):
     if MPI_rank == 0:
-        print('Testing BioNet with {} inputs and {} synaptic connections (nodes: {})'.format(input_type, conn_type,
-                                                                                             MPI_size))
+        header = '## Testing BioNet with {} inputs and {} synaptic connections (nodes: {}) ##'.format(input_type,
+                                                                                                      conn_type,
+                                                                                                      MPI_size)
+        print('#'*len(header))
+        print(header)
+        print('#'*len(header))
 
     output_dir = 'output' if capture_output else tempfile.mkdtemp()
     config_base = json.load(open('config_base.json'))
@@ -196,7 +201,7 @@ def test_bionet(input_type='virt', conn_type='nsyns', capture_output=True, tol=1
         expected_file = get_expected_results(input_type, conn_type)
 
         # Check spikes file
-        assert (SpikesFile(os.path.join(output_dir, 'spikes.h5')) == SpikesFile(expected_file))
+        assert (SpikeTrains.from_sonata(os.path.join(output_dir, 'spikes.h5')) == SpikeTrains.from_sonata(expected_file))
 
         # soma reports
         soma_report_expected = CellVarsFile(expected_file, h5_root='/soma')
