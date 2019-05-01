@@ -1,0 +1,4 @@
+[
+  {"name": "spikes.h5", "type": "spikes"},
+  {"name": "cell_vars.h5", "type": "compartmental"}
+]

@@ -1,0 +1,5 @@
+[
+  {"name": "spikes.h5", "type": "spikes"},
+  {"name": "calcium_concentration.h5", "type": "compartmental"},
+  {"name": "membrane_potential.h5", "type": "compartmental"}
+]

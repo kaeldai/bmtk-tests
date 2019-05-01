@@ -1,0 +1,4 @@
+[
+  {"name": "spikes.h5", "type": "spikes"},
+  {"name": "membrane_potential.h5", "type": "compartmental"}
+]
