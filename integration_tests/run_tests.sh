@@ -16,7 +16,7 @@ pointnet_only=false
 popnet_only=false
 filternet_only=false
 
-positional_args=()
+specified_tests=()
 while [ "$1" != "" ]; do
     case $1 in
         --mpi-only )
@@ -33,35 +33,64 @@ while [ "$1" != "" ]; do
             shift
             n_procs=$1
             ;;
-        bionet )
+        --bionet )
             run_all=false
             bionet_only=true
             shift
             ;;
-        pointnet )
+        --pointnet )
             run_all=false
             pointnet_only=true
             shift
             ;;
-        popnet )
+        --popnet )
             run_all=false
             popnet_only=true
             shift
             ;;
-        filternet )
+        --filternet )
             run_all=false
             filternet_only=true
             shift
             ;;
         * )
-            positional_args+=("$1")
+            specified_tests+=(${1%/}) #("$1")
             shift
             ;;
      esac
 done
 
+#containsTest () {
+#  return 1
+#  local e match="$1"
+#  shift
+#  for e; do
+#    [[ "$e" == "$match" ]] && return 0
+#  done
+#  return 1
+#}
+
+containsTest () {
+    local seeking=$1
+    local array="$2[@]"
+    local in=1
+    for element in "${!array}"; do
+        if [[ $element == $seeking ]]; then
+            in=0
+            break
+        fi
+    done
+    return $in
+}
+
+
+
 if $run_all || $bionet_only; then
     for biodir in ${bionet_tests[@]}; do
+        if [ ${#specified_tests[@]} -gt 0 ] &&  ! containsTest $biodir specified_tests; then
+            continue
+        fi
+
         if $single_process; then
             cd $biodir
             echo ">>>>>>>>>>> RUNNING BIONET TEST ${biodir} <<<<<<<<<<<<<<<<"
@@ -88,6 +117,10 @@ fi
 
 if $run_all || $pointnet_only; then
     for pointdir in ${pointnet_tests[@]}; do
+        if [ ${#specified_tests[@]} -gt 0 ] &&  ! containsTest $pointdir specified_tests; then
+            continue
+        fi
+
         if $single_process; then
             cd $pointdir
             echo ">>>>>>>>>>> RUNNING POINTNET TEST ${pointdir} <<<<<<<<<<<<<<<<"
@@ -114,6 +147,10 @@ fi
 
 if $run_all || $popnet_only; then
     for popdir in ${popnet_tests[@]}; do
+        if [ ${#specified_tests[@]} -gt 0 ] &&  ! containsTest $popdir specified_tests; then
+            continue
+        fi
+
         cd $popdir
         echo ">>>>>>>>>>> RUNNING POPNET TEST ${popdir} <<<<<<<<<<<<<<<<"
         python run_sim.py
@@ -127,6 +164,10 @@ fi
 
 if $run_all || $filternet_only; then
     for filterdir in ${filternet_tests[@]}; do
+        if [ ${#specified_tests[@]} -gt 0 ] &&  ! containsTest $filterdir specified_tests; then
+            continue
+        fi
+
         cd $filterdir
         echo ">>>>>>>>>>> RUNNING FILTERNET TEST ${filterdir} <<<<<<<<<<<<<<<<"
         python run_sim.py

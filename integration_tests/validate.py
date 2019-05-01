@@ -4,11 +4,12 @@ import json
 import h5py
 import numpy as np
 import pandas as pd
-from bmtk.utils.spike_trains import SpikesFile
+# from bmtk.utils.spike_trains import SpikesFile
+from bmtk.utils.reports.spike_trains import SpikeTrains
 from bmtk.utils.cell_vars import CellVarsFile
 
 def check_spikes(actual_h5, expected_h5):
-    assert(SpikesFile(actual_h5) == SpikesFile(expected_h5))
+    assert(SpikeTrains.from_sonata(actual_h5) == SpikeTrains.from_sonata(expected_h5))
 
 
 def check_compartmental_report(actual_h5, expected_h5, tol=1e-05):
