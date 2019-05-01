@@ -10,7 +10,8 @@ from optparse import OptionParser, BadOptionError, AmbiguousOptionError
 
 from bmtk.simulator import pointnet
 from bmtk.simulator.pointnet.pyfunction_cache import py_modules
-from bmtk.utils.spike_trains import SpikesFile
+#from bmtk.utils.spike_trains import SpikesFile
+from bmtk.utils.reports.spike_trains import SpikeTrains
 
 #def process_model(model_type, node, dynamics_params):
 #    return nest.Create(model_type, 1, dynamics_params)
@@ -35,7 +36,7 @@ def save_data(sim_type, conn_type, output_dir):
     root_group.attrs['arch'] = platform.machine()
 
     # spikes data
-    input_spikes = SpikesFile(os.path.join(output_dir, 'spikes.h5'))
+    input_spikes = SpikeTrains.from_sonata(os.path.join(output_dir, 'spikes.h5'))
     spikes_df = input_spikes.to_dataframe()
     sample_data.create_dataset('/spikes/gids', data=np.array(spikes_df['gids']))
     sample_data.create_dataset('/spikes/timestamps', data=np.array(spikes_df['timestamps']))
@@ -105,7 +106,7 @@ def test_pointnet(input_type='virt', net_type='batched', capture_output=True, to
     expected_file = get_expected_results(input_type)
 
     # Check spikes file
-    assert (SpikesFile(os.path.join(output_dir, 'spikes.h5')) == SpikesFile(expected_file))
+    assert (SpikeTrains.from_sonata(os.path.join(output_dir, 'spikes.h5')) == SpikeTrains.from_sonata(expected_file))
     # assert (spike_files_equal(configure['output']['spikes_file_csv'], 'expected/spikes.csv'))
 
 
