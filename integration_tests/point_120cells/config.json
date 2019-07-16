@@ -11,7 +11,8 @@
     "duration": 1500.0,
     "dt": 0.001,
     "block_run": false,
-    "block_size": 1000.0
+    "block_size": 1000.0,
+    "precise_times": false
   },
 
   "inputs": {
@@ -25,7 +26,7 @@
 
   "reports": {
     "membrane_potential": {
-      "cells": [0, 20, 60, 80, 100],
+      "cells": {"population": "cortex", "node_id": [0, 20, 60, 80, 100]},
       "variable_name": "V_m",
       "module": "multimeter_report",
       "sections": "soma",

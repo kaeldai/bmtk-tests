@@ -79,7 +79,8 @@
       "variable_name": "tau1",
       "module": "netcon_report",
       "sections": "soma",
-      "syn_type": "Exp2Syn"
+      "syn_type": "Exp2Syn",
+      "enabled": false
     }
   },
 

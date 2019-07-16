@@ -4,33 +4,34 @@ import json
 import h5py
 import numpy as np
 import pandas as pd
-# from bmtk.utils.spike_trains import SpikesFile
-from bmtk.utils.reports.spike_trains import SpikeTrains
-from bmtk.utils.cell_vars import CellVarsFile
+from bmtk.utils.reports import SpikeTrains
+from bmtk.utils.reports import CompartmentReport
+
 
 def check_spikes(actual_h5, expected_h5):
     assert(SpikeTrains.from_sonata(actual_h5) == SpikeTrains.from_sonata(expected_h5))
 
 
 def check_compartmental_report(actual_h5, expected_h5, tol=1e-05):
-    report_expected = CellVarsFile(expected_h5)
-    report_actual = CellVarsFile(actual_h5)
-    t_window = report_expected.t_start, report_expected.t_stop
-    assert (report_expected.dt == report_actual.dt)
-    assert (report_expected.gids == report_actual.gids)
-    assert (report_expected.variables == report_actual.variables)
-    for gid in report_expected.gids:
-        assert (report_actual.compartment_ids(gid) == report_expected.compartment_ids(gid)).all()
-        for var in report_expected.variables:
-            assert (np.allclose(report_actual.data(gid=gid, var_name=var, time_window=t_window),
-                                report_expected.data(gid=gid, var_name=var), tol))
+    report_expected = CompartmentReport(expected_h5, mode='r')
+    report_actual = CompartmentReport(actual_h5, mode='r')
+    t_window = report_expected.tstart(), report_expected.tstop()
+    assert(report_expected.dt() == report_actual.dt())
+    assert(set(report_expected.node_ids()) == set(report_actual.node_ids()))
+    assert(set(report_expected.populations) == set(report_actual.populations))
+    for pop in report_expected.populations:
+        for node_id in report_expected[pop].node_ids():
+            assert(np.all(report_expected[pop].element_ids(node_id) == report_actual[pop].element_ids(node_id)))
+            assert(np.all(report_expected[pop].element_pos(node_id) == report_actual[pop].element_pos(node_id)))
+            assert(np.allclose(report_expected[pop].data(node_id=node_id, time_window=t_window),
+                              report_actual[pop].data(node_id=node_id, time_window=t_window), tol))
 
 
 def check_ecp(actual_h5, expected_h5, tol=1e-05):
     ecp_report = h5py.File(actual_h5, 'r')
     ecp_report_exp = h5py.File(expected_h5, 'r')
     ecp_grp_exp = ecp_report_exp['/']
-    assert (np.allclose(np.array(ecp_report['/data'][()]), np.array(ecp_grp_exp['data'][()]), tol))
+    assert (np.allclose(np.array(ecp_report['/ecp/data'][()]), np.array(ecp_grp_exp['/ecp/data'][()]), tol))
 
 
 def check_rates(expected_csv, actual_csv):

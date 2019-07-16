@@ -1,5 +1,6 @@
 [
   {"name": "spikes.h5", "type": "spikes"},
-  {"name": "cell_vars.h5", "type": "compartmental"},
+  {"name": "calcium_concentration.h5", "type": "compartmental"},
+  {"name": "membrane_potential.h5", "type": "compartmental"},
   {"name": "ecp.h5", "type": "ecp"}
 ]
