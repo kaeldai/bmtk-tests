@@ -35,9 +35,12 @@ def check_ecp(actual_h5, expected_h5, tol=1e-05):
 
 
 def check_rates(expected_csv, actual_csv):
-    expected_df = pd.read_csv(expected_csv, names=['node_ids', 'rates'], sep=' ')
-    actual_df = pd.read_csv(actual_csv, names=['node_ids', 'rates'], sep=' ')
-    assert(expected_df.equals(actual_df))
+    expected_df = pd.read_csv(expected_csv, names=['node_ids', 'times', 'rates'], sep=' ')
+    actual_df = pd.read_csv(actual_csv, names=['node_ids', 'times', 'rates'], sep=' ')
+
+    assert(np.all(expected_df['node_ids'] == actual_df['node_ids']))
+    assert (np.allclose(expected_df['times'], actual_df['times']))
+    assert (np.allclose(expected_df['rates'], actual_df['rates']))
 
 
 def check_filternet_rates(expected_csv, actual_csv, pass_rate=.70):

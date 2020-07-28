@@ -1,0 +1,3001 @@
+INFO:IOUtils:Network created.
+INFO:dipde.internals.network:time: 0.002
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 0.00
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.00
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.004
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 0.00
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.00
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.006
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 0.01
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.00
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.008
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 0.02
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.00
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.01
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 0.05
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.00
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.012
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 0.09
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.00
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.014
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 0.14
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.00
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.016
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 0.22
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.00
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.018
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 0.32
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.00
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.02
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 0.44
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.00
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.022
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 0.59
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.00
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.024
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 0.76
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.00
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.026
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 0.95
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.00
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.028
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 1.15
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.00
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.03
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 1.37
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.00
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.032
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 1.61
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.00
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.034
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 1.85
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.00
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.036
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 2.10
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.01
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.038
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 2.35
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.02
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.04
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 2.60
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.04
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.042
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 2.85
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.08
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.044
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.10
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.14
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.046
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.34
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.23
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.048
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.57
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.37
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.05
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.78
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.56
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.052
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.97
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 0.82
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.054
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 4.14
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 1.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.056
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 4.29
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 1.55
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.058
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 4.40
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 2.01
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.06
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 4.48
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 2.52
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.062
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 4.53
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 3.05
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.064
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 4.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 3.59
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.066
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 4.51
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.08
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.068
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 4.45
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.52
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.07
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 4.38
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.86
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.072
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 4.28
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 5.11
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.074
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 4.18
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 5.26
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.076
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 4.07
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 5.32
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.078
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.97
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 5.30
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.08
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.88
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 5.23
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.082
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.80
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 5.12
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.084
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.73
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.99
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.086
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.67
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.85
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.088
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.63
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.72
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.09
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.59
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.60
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.092
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.57
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.50
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.094
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.55
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.41
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.096
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.33
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.098
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.53
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.27
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.1
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.52
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.22
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.102
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.52
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.19
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.104
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.52
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.16
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.106
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.52
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.14
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.108
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.52
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.12
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.11
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.52
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.12
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.112
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.52
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.11
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.114
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.53
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.11
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.116
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.53
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.11
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.118
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.53
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.11
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.12
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.53
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.12
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.122
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.53
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.12
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.124
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.53
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.12
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.126
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.13
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.128
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.13
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.13
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.13
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.132
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.14
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.134
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.14
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.136
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.14
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.138
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.14
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.142
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.144
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.146
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.148
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.15
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.152
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.154
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.156
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.158
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.16
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.162
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.164
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.166
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.168
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.17
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.172
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.174
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.176
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.178
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.18
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.182
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.184
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.186
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.188
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.19
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.192
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.194
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.196
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.198
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.2
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.202
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.204
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.206
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.208
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.21
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.212
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.214
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.216
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.218
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.22
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.222
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.224
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.226
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.228
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.23
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.232
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.234
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.236
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.238
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.24
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.242
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.244
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.246
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.248
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.25
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.252
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.254
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.256
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.258
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.26
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.262
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.264
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.266
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.268
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.27
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.272
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.274
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.276
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.278
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.28
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.282
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.284
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.286
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.288
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.29
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.292
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.294
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.296
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.298
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.3
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.302
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.304
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.306
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.308
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.31
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.312
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.314
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.316
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.318
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.32
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.322
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.324
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.326
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.328
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.33
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.332
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.334
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.336
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.338
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.34
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.342
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.344
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.346
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.348
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.35
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.352
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.354
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.356
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.358
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.36
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.362
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.364
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.366
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.368
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.37
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.372
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.374
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.376
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.378
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.38
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.382
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.384
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.386
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.388
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.39
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.392
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.394
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.396
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.398
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.4
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.402
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.404
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.406
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.408
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.41
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.412
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.414
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.416
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.418
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.42
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.422
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.424
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.426
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.428
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.43
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.432
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.434
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.436
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.438
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.44
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.442
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.444
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.446
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.448
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.45
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.452
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.454
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.456
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.458
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.46
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.462
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.464
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.466
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.468
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.47
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.472
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.474
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.476
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.478
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.48
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.482
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.484
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.486
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.488
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.49
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.492
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.494
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.496
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.498
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.5
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.502
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.504
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.506
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.508
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.51
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.512
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.514
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.516
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.518
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.52
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.522
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.524
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.526
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.528
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.53
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.532
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.534
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.536
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.538
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.54
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.542
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.544
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.546
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.548
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.55
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.552
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.554
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.556
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.558
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.56
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.562
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.564
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.566
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.568
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.57
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.572
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.574
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.576
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.578
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.58
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.582
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.584
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.586
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.588
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.59
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.592
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.594
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.596
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.598
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.6
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.602
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.604
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.606
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.608
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.61
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.612
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.614
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.616
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.618
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.62
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.622
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.624
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.626
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.628
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.63
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.632
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.634
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.636
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.638
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.64
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.642
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.644
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.646
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.648
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.65
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.652
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.654
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.656
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.658
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.66
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.662
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.664
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.666
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.668
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.67
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.672
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.674
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.676
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.678
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.68
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.682
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.684
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.686
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.688
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.69
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.692
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.694
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.696
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.698
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.7
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.702
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.704
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.706
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.708
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.71
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.712
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.714
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.716
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.718
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.72
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.722
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.724
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.726
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.728
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.73
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.732
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.734
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.736
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.738
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.74
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.742
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.744
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.746
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.748
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.75
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.752
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.754
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.756
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.758
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.76
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.762
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.764
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.766
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.768
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.77
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.772
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.774
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.776
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.778
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.78
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.782
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.784
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.786
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.788
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.79
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.792
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.794
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.796
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.798
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.8
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.802
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.804
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.806
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.808
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.81
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.812
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.814
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.816
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.818
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.82
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.822
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.824
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.826
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.828
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.83
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.832
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.834
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.836
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.838
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.84
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.842
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.844
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.846
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.848
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.85
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.852
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.854
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.856
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.858
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.86
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.862
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.864
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.866
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.868
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.87
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.872
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.874
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.876
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.878
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.88
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.882
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.884
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.886
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.888
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.89
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.892
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.894
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.896
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.898
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.9
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.902
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.904
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.906
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.908
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.91
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.912
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.914
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.916
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.918
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.92
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.922
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.924
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.926
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.928
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.93
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.932
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.934
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.936
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.938
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.94
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.942
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.944
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.946
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.948
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.95
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.952
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.954
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.956
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.958
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.96
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.962
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.964
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.966
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.968
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.97
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.972
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.974
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.976
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.978
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.98
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.982
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.984
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.986
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.988
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.99
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.992
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.994
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.996
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 0.998
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.0
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.002
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.004
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.006
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.008
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.01
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.012
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.014
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.016
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.018
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.02
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.022
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.024
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.026
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.028
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.03
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.032
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.034
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.036
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.038
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.04
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.042
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.044
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.046
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.048
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.05
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.052
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.054
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.056
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.058
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.06
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.062
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.064
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.066
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.068
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.07
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.072
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.074
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.076
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.078
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.08
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.082
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.084
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.086
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.088
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.09
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.092
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.094
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.096
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.098
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.1
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.102
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.104
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.106
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.108
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.11
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.112
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.114
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.116
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.118
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.12
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.122
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.124
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.126
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.128
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.13
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.132
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.134
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.136
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.138
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.14
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.142
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.144
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.146
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.148
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.15
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.152
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.154
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.156
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.158
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.16
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.162
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.164
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.166
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.168
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.17
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.172
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.174
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.176
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.178
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.18
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.182
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.184
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.186
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.188
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.19
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.192
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.194
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.196
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.198
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.2
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.202
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.204
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.206
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.208
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.21
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.212
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.214
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.216
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.218
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.22
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.222
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.224
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.226
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.228
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.23
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.232
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.234
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.236
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.238
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.24
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.242
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.244
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.246
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.248
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.25
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.252
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.254
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.256
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.258
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.26
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.262
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.264
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.266
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.268
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.27
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.272
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.274
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.276
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.278
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.28
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.282
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.284
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.286
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.288
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.29
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.292
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.294
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.296
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.298
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.3
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.302
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.304
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.306
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.308
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.31
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.312
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.314
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.316
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.318
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.32
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.322
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.324
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.326
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.328
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.33
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.332
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.334
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.336
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.338
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.34
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.342
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.344
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.346
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.348
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.35
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.352
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.354
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.356
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.358
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.36
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.362
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.364
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.366
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.368
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.37
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.372
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.374
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.376
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.378
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.38
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.382
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.384
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.386
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.388
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.39
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.392
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.394
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.396
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.398
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.4
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.402
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.404
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.406
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.408
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.41
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.412
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.414
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.416
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.418
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.42
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.422
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.424
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.426
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.428
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.43
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.432
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.434
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.436
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.438
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.44
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.442
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.444
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.446
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.448
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.45
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.452
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.454
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.456
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.458
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.46
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.462
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.464
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.466
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.468
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.47
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.472
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.474
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.476
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.478
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.48
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.482
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.484
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.486
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.488
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.49
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.492
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.494
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.496
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.498
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
+INFO:dipde.internals.network:time: 1.5
+DEBUG:dipde.internals.internalpopulation:GID(0) Firing rate: 3.54
+DEBUG:dipde.internals.internalpopulation:GID(1) Firing rate: 4.15
+DEBUG:dipde.internals.externalpopulation:GID(2) Firing rate: 15.00
